@@ -6,4 +6,6 @@ High Magnetic Field Science Toolset is designed to acquire, analyze, and publisi
 
 Core code repository: https://github.com/ffb-LANL/NHMFL_Core
 
+LabActor Framework: https://github.com/ffb-LANL/LabActor
+
 MeagaAnalysys tool: https://github.com/ffb-LANL/MegaAnalysis
