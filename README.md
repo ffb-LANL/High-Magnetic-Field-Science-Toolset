@@ -11,3 +11,5 @@ LabActor Framework: https://github.com/ffb-LANL/LabActor
 MeagaAnalysys tool: https://github.com/ffb-LANL/MegaAnalysis
 
 OSF Tools: https://github.com/ffb-LANL/OSF-Tools
+
+Maglab Metadata Hub: https://github.com/luda171/Maglab-Metadata-Hub
