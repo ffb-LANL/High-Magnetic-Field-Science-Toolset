@@ -13,3 +13,5 @@ MeagaAnalysys tool: https://github.com/ffb-LANL/MegaAnalysis
 OSF Tools: https://github.com/ffb-LANL/OSF-Tools
 
 Maglab Metadata Hub: https://github.com/luda171/Maglab-Metadata-Hub
+
+Extention of the red pitaya notes framework for high magnetic field measurements: https://github.com/ffb-LANL/red-pitaya-notes
