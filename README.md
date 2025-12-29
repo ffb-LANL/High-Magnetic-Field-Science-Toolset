@@ -17,3 +17,5 @@ Maglab Metadata Hub: https://github.com/luda171/Maglab-Metadata-Hub
 Extention of the red pitaya notes framework for high magnetic field measurements: https://github.com/ffb-LANL/red-pitaya-notes
 
 Tools for processing critical current measurements in pulsed field: https://github.com/stef-ma/ivtools
+
+Extention of the RFSoC-MTS framework for high magnetic field measurements: https://github.com/ffb-LANL/RFSoC-MTS
