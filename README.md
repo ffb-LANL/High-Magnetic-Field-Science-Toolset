@@ -1,5 +1,7 @@
 # High Magnetic Field Science Toolset
 
+[![DOI](https://zenodo.org/badge/320382081.svg)](https://doi.org/10.5281/zenodo.5076132)
+
 (LANL Copyright No. C20099)
 
 High Magnetic Field Science Toolset is designed to acquire, analyze, and publisize experimental data obtained at high magnetic fields.
