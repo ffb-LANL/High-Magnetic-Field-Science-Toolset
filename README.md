@@ -6,13 +6,13 @@
 
 High Magnetic Field Science Toolset is designed to acquire, analyze, and publisize experimental data obtained at high magnetic fields.
 
-Core Data Acquisition Libraries: https://github.com/ffb-LANL/NHMFL_Core
-
 LabActor Data Acquisition Application Framework: https://github.com/ffb-LANL/LabActor
 
-MeagaAnalysys tool: https://github.com/ffb-LANL/MegaAnalysis
+Core Data Acquisition Libraries: https://github.com/ffb-LANL/NHMFL_Core
 
-FAIR Data OSF Tools: https://github.com/ffb-LANL/OSF-Tools
+MegaAnalysys tool: https://github.com/ffb-LANL/MegaAnalysis
+
+FAIR Data Open Science Framework Tools: https://github.com/ffb-LANL/OSF-Tools
 
 Maglab Metadata FAIR Data Stewardship Hub: https://github.com/luda171/Maglab-Metadata-Hub
 
