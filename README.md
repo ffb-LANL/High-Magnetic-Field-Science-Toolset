@@ -10,6 +10,8 @@ LabActor Data Acquisition Application Framework: https://github.com/ffb-LANL/Lab
 
 Core Data Acquisition Libraries: https://github.com/ffb-LANL/NHMFL_Core
 
+Resonant ultrasound spectroscopy toolbox: https://github.com/ffb-LANL/resonant-ultrasound
+
 MegaAnalysys tool: https://github.com/ffb-LANL/MegaAnalysis
 
 FAIR Data Open Science Framework Tools: https://github.com/ffb-LANL/OSF-Tools
